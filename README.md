@@ -9,4 +9,4 @@ This repository contains all the necessary files for the project AI News. The te
 
 ### How to run:
 To run this project, you need to have NodeJS (NPM) in your machine. Get the above code on to your machine.
-You will have to run ```npm i && npm start``` command in the terminal opened in the corresponding folder. It will take you the demo example on your machine.
+You will have to run ```npm i && npm start``` command in the terminal opened in the corresponding folder. It will take you to the local website on your machine.
